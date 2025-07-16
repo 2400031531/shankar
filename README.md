@@ -1,2 +1,2 @@
 # shankar
-wellecome 
+wellcome 
